@@ -79,7 +79,7 @@ public class HttpPost {
     public static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
     private static OkHttpClient mClient = null;
     //public static String URL = "http://111.47.21.51:19090";//生产
-    public static String URL = "http://139.159.237.223:19090/ctess";//忠德
+    public static String URL = "http://139.159.237.223:19090";//忠德
 
     private String LOGIN_URL = URL + "/login";                        //登录
     private String GET_LOGIN_USER = URL + "/user/getLoginUser";      //获取登录用户信息
