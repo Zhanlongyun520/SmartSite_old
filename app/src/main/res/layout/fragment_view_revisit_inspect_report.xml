@@ -84,7 +84,7 @@
         <TextView
             android:id="@+id/inspect_report_revisit_des"
             style="@style/add_report_lab"
-            android:text="在光谷中心城一号工地发现违章行为" />
+            android:text="在梧州市忠德一号工地发现违章行为" />
     </LinearLayout>
 
     <LinearLayout

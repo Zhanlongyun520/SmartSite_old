@@ -16,7 +16,7 @@
             android:background="@drawable/shape_rectangle_hubian"
             android:gravity="center"
             android:singleLine="true"
-            android:text="光谷中心城光谷三路"
+            android:text="梧州市忠德智慧工地"
             android:textColor="@color/white"
             android:textSize="12sp" />
         <ImageButton

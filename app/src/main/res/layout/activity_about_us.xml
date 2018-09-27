@@ -24,7 +24,7 @@
         android:textSize="18sp"
         android:layout_gravity="center_horizontal"
         android:textColor="@color/tab_text_normal"
-        android:text="光谷中心城智慧工地"/>
+        android:text="梧州市忠德智慧工地"/>
 
     <TextView
         android:id="@+id/app_version"
@@ -48,7 +48,7 @@
             android:layout_alignParentBottom="true"
             android:layout_marginBottom="24dp"
             android:textColor="@color/des_text_color"
-            android:text="© 2017 光谷中心城 ALL Rights Reserved"/>
+            android:text="© 2017 梧州市忠德 ALL Rights Reserved"/>
 
     </RelativeLayout>
 

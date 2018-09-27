@@ -128,7 +128,7 @@
                 android:id="@+id/lab_report_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="光谷中心城违章报告"
+                android:text="梧州市忠德违章报告"
                 android:textColor="@color/main_text_color"
                 android:textSize="14sp"
                 android:textStyle="bold" />
@@ -138,7 +138,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="在光谷中心城1号工地发现违章行为，请尽快查清"
+                android:text="在梧州市忠德1号工地发现违章行为，请尽快查清"
                 android:textColor="@color/main_text_color"
                 android:textSize="14sp" />
 
